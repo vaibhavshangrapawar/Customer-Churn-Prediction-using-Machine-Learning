@@ -20,24 +20,6 @@ This project focuses on predicting customer churn using various machine learning
 - **Scikit-learn**
 - **Matplotlib & Seaborn**
 
-## ⚙️ Installation
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/customer-churn-prediction.git
-    cd customer-churn-prediction
-    ```
-
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Open the notebook:
-    ```bash
-    jupyter notebook Project.ipynb
-    ```
-
 ## 📝 Usage
 
 Follow the steps in the notebook to:
@@ -49,13 +31,13 @@ Follow the steps in the notebook to:
 ## 📌 Acknowledgements
 
 This project uses a sample dataset for educational and demonstration purposes.
-email : shangrapawarvaibhav@gmail.com
 
 ---
 
 ### 📧 Contact
 
 For any questions or suggestions, feel free to reach out!
+email : shangrapawarvaibhav@gmail.com
 
 ---
 
