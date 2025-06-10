@@ -49,6 +49,7 @@ Follow the steps in the notebook to:
 ## 📌 Acknowledgements
 
 This project uses a sample dataset for educational and demonstration purposes.
+email : shangrapawarvaibhav@gmail.com
 
 ---
 
